@@ -8,7 +8,7 @@ const tasks = [
 ]
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(10)
 
   return (
     <main className="app-shell">
